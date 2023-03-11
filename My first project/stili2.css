@@ -1,0 +1,77 @@
+
+
+*{
+    background-color:gray;
+    margin-top: 5px;
+}
+h3{
+    color:black;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h4{
+    color: black;
+    font-size: 45px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+    
+.tavolinatradicionale{
+position: relative;
+left:380px;
+border-radius: 9px;
+}
+.tavolina{
+    position: relative;
+    left:380px;
+    border-radius: 9px;
+}
+.mishipjekur{
+    position: relative;
+    left: 380px;
+    border-radius: 9px;
+}
+.peshku{
+    position: relative;
+    left:380px;
+    border-radius: 9px;
+}
+.qofte{
+    position: relative;
+    left: 380px;
+    border-radius: 9px;
+    height: 400px;
+    width: 600px;
+}
+ .byrekspinaq{
+    position: relative;
+    left: 380px;
+    border-radius: 9px;
+    height: 400px;
+    width: 600px;
+ }   
+.perime{
+    position: relative;
+    left: 380px;
+    border-radius: 9px;
+}
+.tave{
+    position: relative;
+    left: 380px;
+    border-radius: 9px;
+    height: 400px;
+    width: 600px;
+}
+.specam{
+    position: relative;
+    left: 380px;
+    border-radius: 9px;
+    height: 400px;
+    width: 600px;
+}
